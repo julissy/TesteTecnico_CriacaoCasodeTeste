@@ -15,7 +15,7 @@ Avaliar sua habilidade de escrita, pensamento crítico e analítico, criatividad
 
 Notion
 
-**Caso tenha algum feedback fique à vontade para entrar em contato**
+**Caso tenha algum feedback fique à vontade para entrar em contato via Issues**
 
 
 [Resultado Desafio](https://desafio-qa-julissy.notion.site/Fluxo-de-cadastro-487e216524a24cf0ba52a84e9e4a3502)
