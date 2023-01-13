@@ -1,5 +1,4 @@
-# CasosDeTeste_FluxoDeCadastro
-
+# DesafioQA_EmpresaLacrei
 
 ### **Objetivo do desafio:**
 
@@ -11,13 +10,9 @@ Avaliar sua habilidade de escrita, pensamento crítico e analítico, criatividad
 2. Documentar os casos de testes do fluxo de cadastro
 3. Cobrir todos os caminhos de testes possíveis.
 
-### Ferramenta utilizada
+### Desenvolvimento dos casos:
 
-Notion
-
-### Um pouco do desenvolvimento dos casos...
-
-Para iniciar a resolução desse desafio criei uma User Storie(o PO(Product Owner) acaba sendo a pessoa responsável por essa parte, mas a metodologia ágil envolve colaboração então é importante saber conceitos) detalhando com seria um Fluxo de Cadastro e a Tela de Cadastro onde acontece o cadastro.
+Para iniciar a resolução desse desafio criei uma User Storie(o PO(Product Owner) acaba sendo a pessoa responsável por essa parte, mas a metodologia ágil envolve colaboração então é importante saber conceitos) detalhando como seria um Fluxo de Cadastro e a Tela de Cadastro onde acontece o cadastro.
 
 Após esse momento, criei um card listando os Casos de Teste(CT) que seriam possíveis a partir da User Storie.
 
@@ -25,7 +20,11 @@ E finalmente a criação de cada CT com sua Descrição,Pré-condição,Pós Con
 
 Como bônus realizei a execução do Caso de Teste 05 (CT05) onde testei a ferramenta Zephyr Scale para a execução e criação do relatório.
 
+### Resultado do Desafio:
+
+O desafio proposto pede a utilização da plataforma [Notion](https://www.notion.so/), para fins de organização e elaboração da estrutura dos casos.
+O resultado final pode ser averiguado no link do projeto abaixo
+ [Projeto DesafioQA-EmpresaLacrei](https://desafio-qa-julissy.notion.site/Fluxo-de-cadastro-487e216524a24cf0ba52a84e9e4a3502)
+
+
 **Caso tenha algum feedback fique à vontade para entrar em contato via Issues**
-
-
-[Resultado Desafio](https://desafio-qa-julissy.notion.site/Fluxo-de-cadastro-487e216524a24cf0ba52a84e9e4a3502)
