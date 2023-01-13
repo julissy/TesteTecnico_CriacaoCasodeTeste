@@ -1,4 +1,4 @@
-# DesafioQA_EmpresaLacrei
+# DesafioQA_EmpresaPortalLacrei
 
 ### **Objetivo do desafio:**
 
