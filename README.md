@@ -21,6 +21,7 @@ Para iniciar a resolução desse desafio criei uma User Storie(o PO(Product Owne
 
 Após esse momento, criei um card listando os Casos de Teste(CT) que seriam possíveis a partir da User Storie.
 E finalmente a criação de cada CT com sua Descrição,Pré-condição,Pós Condições,Script de Teste e Resultado esperado.
+Como bônus realizei a execução do Caso de Teste 05 (CT05) onde testei a ferramenta Zephyr Scale para a execução e criação do relatório.
 
 **Caso tenha algum feedback fique à vontade para entrar em contato via Issues**
 
