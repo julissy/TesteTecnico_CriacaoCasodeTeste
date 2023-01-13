@@ -15,6 +15,13 @@ Avaliar sua habilidade de escrita, pensamento crítico e analítico, criatividad
 
 Notion
 
+###Um pouco do desenvolvimento dos casos...
+
+Para iniciar a resolução desse desafio criei uma User Storie(o PO(Product Owner) acaba sendo a pessoa responsável por essa parte, mas a metodologia ágil envolve colaboração então é importante saber conceitos) detalhando com seria um Fluxo de Cadastro e a Tela de Cadastro onde acontece o cadastro.
+
+Após esse momento, criei um card listando os Casos de Teste(CT) que seriam possíveis a partir da User Storie.
+E finalmente a criação de cada CT com sua Descrição,Pré-condição,Pós Condições,Script de Teste e Resultado esperado.
+
 **Caso tenha algum feedback fique à vontade para entrar em contato via Issues**
 
 
