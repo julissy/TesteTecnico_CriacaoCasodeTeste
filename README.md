@@ -16,6 +16,9 @@ Para iniciar a resolução desse desafio criei uma User Storie(o PO(Product Owne
 
 Após esse momento, criei um mapa mental listando as [Regras de Negócio(RN)](https://github.com/julissy/TesteTecnico_CriacaoCasodeTeste/blob/main/RN_Cadastro.jpg) para a funcionalidade Cadastro, com isso consigo me orientar sobre quais CT's devo elaborar
 
+![RN_Cadastro](https://user-images.githubusercontent.com/102709022/231570537-32d08b35-7f5a-4b8e-8dc1-2b9f31b7f3cc.jpg)
+
+
 E finalmente a criação de cada Caso de Teste utilizando a linguagem Gherkin por ser universal e de fácil entendimento.
 
 ### Resultado do Desafio:
