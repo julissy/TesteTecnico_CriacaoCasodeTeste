@@ -14,7 +14,7 @@ Avaliar sua habilidade de escrita, pensamento crítico e analítico, criatividad
 
 Para iniciar a resolução desse desafio criei uma User Storie(o PO(Product Owner) acaba sendo a pessoa responsável por essa parte, mas a metodologia ágil envolve colaboração então é importante saber conceitos) detalhando como seria um Fluxo de Cadastro e a Tela de Cadastro onde acontece o cadastro.
 
-Após esse momento, criei um mapa mental listando os Casos de Teste(CT) que seriam possíveis a partir da User Storie.
+Após esse momento, criei um mapa mental listando as [Regras de Negócio(RN)](https://github.com/julissy/TesteTecnico_CriacaoCasodeTeste/blob/main/RN_Cadastro.jpg) para a funcionalidade Cadastro, com isso consigo me orientar sobre quais CT's devo elaborar
 
 E finalmente a criação de cada Caso de Teste utilizando a linguagem Gherkin por ser universal e de fácil entendimento.
 
@@ -23,4 +23,4 @@ O resultado final pode ser averiguado no link do projeto abaixo
  [Casos de Testes](https://github.com/julissy/TesteTecnico_CriacaoCasodeTeste/blob/main/CTS_LacreiSaude.xlsx)
 
 
-**Caso tenha algum feedback fique à vontade para enviar e-mail para jutocachelo@gmail.com ou entrar em contato via [Linkedin](https://www.linkedin.com/in/julissytocachelo/) 
+Caso tenha algum feedback fique à vontade para enviar e-mail para jutocachelo@gmail.com ou entrar em contato via [Linkedin](https://www.linkedin.com/in/julissytocachelo/) 
